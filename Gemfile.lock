@@ -134,7 +134,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0)
   orange-rails!
-  rails (>= 5.0.0)
+  rails (>= 4.2, < 6.0.0)
   rake (~> 10.0)
   rspec (~> 3.0)
 
